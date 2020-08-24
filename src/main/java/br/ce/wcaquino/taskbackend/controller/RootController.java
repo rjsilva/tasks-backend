@@ -11,6 +11,6 @@ public class RootController {
 	
 	@GetMapping
 	public String hello() {
-		return "Aplicação backend java";
+		return "Aplicação backend";
 	}
 }
